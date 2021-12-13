@@ -27,3 +27,6 @@ print('朱蓉真的是个傻子')
 from sys import argv,path
 print("==========python从sys模块导入特定成员arg，path===========")
 print("path:",path)
+
+111
+222
